@@ -5,4 +5,7 @@ Genera una frase nueva en ingles y muestr a su autor cada vez que damos click en
 React Ts y Bootstrap
 
 ### Demo
-[Dmeo]()
+[Demo](https://jutaga.github.io/BreakingBadQuotes/)
+
+### API
+[Api](https://breakingbadquotes.xyz/)
